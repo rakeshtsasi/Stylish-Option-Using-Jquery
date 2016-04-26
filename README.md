@@ -1,4 +1,4 @@
-# Stylish Option Using Jquery
+# Stylish Options Using Jquery
 
 ## Screenshoot
 
